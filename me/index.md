@@ -1,5 +1,5 @@
 ---
-layout: Twenty-KITECH
+layout: me
 title: purpose
 ---
 
