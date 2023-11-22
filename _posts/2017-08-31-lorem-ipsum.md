@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lorem Ipsum"
-tags: JiminKim PyunghwaShin JunsungKim DayeYoon
+tags: 1_PyunghwaShin 2_DayeYoon 3_JiminKim 4_JunsungKim DayeYoon
 ---
 
 ## Lorem Ipsum
